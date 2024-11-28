@@ -100,11 +100,11 @@ church.html
 
 ## OUTPUT
 [text](harshu/myapp/static/map.html)
-![alt text](<html 2.png>)
-![alt text](<html 2-2.png>)
-![alt text](<html 3.png>)
-![alt text](<html 4.png>)
-![alt text](<html 5.png>)
+![alt text](<harshu/myapp/static/html 1.png>)
+![alt text](<harshu/myapp/static/html 2.png>)
+![alt text](<harshu/myapp/static/html 3.png>)
+![alt text](<harshu/myapp/static/html 4.png>)
+![alt text](<harshu/myapp/static/html 5.png>)
 
 
 
