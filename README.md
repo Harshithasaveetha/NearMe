@@ -99,7 +99,7 @@ church.html
 
 
 ## OUTPUT
-[text](harshu/myapp/static/map.html)
+![alt text](map.png)
 ![alt text](<harshu/myapp/static/html 1.png>)
 ![alt text](<harshu/myapp/static/html 2.png>)
 ![alt text](<harshu/myapp/static/html 3.png>)
